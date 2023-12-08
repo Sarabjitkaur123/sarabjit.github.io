@@ -2,6 +2,6 @@ h1{color:red;}
 h2{color:yellow;}
 p{font-size:30px;color:blue;}
 body{background-color:pink;}
-img{display:block;margin:auto;width:200;height:200;borer:5px solid black;borer-radius:8px;opacity:0.8;}
+img{display:block;margin:auto;width:50%;height:auto;borer:5px solid black;borer-radius:8px;opacity:0.8;}
     
 
