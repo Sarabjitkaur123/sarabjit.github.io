@@ -1698,7 +1698,7 @@ body{
 	color:#fff;
 }
 .pricing-table .btn:before{
-	background:#2C2D3F;
+	background:yellow;
 }
 .pricing-table .btn:hover{
 	color:#fff;
