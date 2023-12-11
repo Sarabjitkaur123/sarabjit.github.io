@@ -633,10 +633,10 @@ body{
 }
 .slider .single-slider .btn.primary{
 	background:#2C2D3F;
-	color:#fff;
+	color:yellow;
 }
 .slider .single-slider .btn.primary:before{
-	background:#1A76D1;
+	background:yellow;
 }
 .slider .owl-carousel .owl-nav {
 	margin: 0;
