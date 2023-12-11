@@ -632,7 +632,7 @@ body{
 	margin:0;
 }
 .slider .single-slider .btn.primary{
-	background:#2C2D3F;
+	background:yellow;
 	color:yellow;
 }
 .slider .single-slider .btn.primary:before{
