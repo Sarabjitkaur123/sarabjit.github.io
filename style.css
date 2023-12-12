@@ -270,7 +270,7 @@ body{
 	font-weight:400;
 }
 .header .top-link li:hover a{
-	color:#1A76D1;
+	color:pink;
 }
 .header .top-contact{
 	float:right;
@@ -287,7 +287,7 @@ body{
 	font-size:14px;
 }
 .header .top-contact li a:hover{
-	color:#1A76D1;
+	color:pink;
 }
 .header .top-contact li i{
 	color:#1A76D1;
