@@ -1097,10 +1097,10 @@ body{
 	color:pink;
 }
 .call-action .content .btn:before{
-	background:#1A76D1;
+	background:pink;
 }
 .call-action .content .btn:hover{
-	background:#1A76D1;
+	background:pink;
 	color:#fff;
 }
 .call-action .content .btn:last-child{
