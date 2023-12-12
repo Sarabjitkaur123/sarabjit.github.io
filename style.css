@@ -631,7 +631,7 @@ body{
 }
 .slider .single-slider .btn.primary{
 	background:#2C2D3F;
-	color:yellow;
+	color:#fff;
 }
 .slider .single-slider .btn.primary:before{
 	background:yellow;
