@@ -124,7 +124,7 @@ body{
 	bottom: 15px;
 	right: 15px;
 	padding: 10px 20px;
-	background: #1a76d1;
+	background: pink;
 	color: #fff;
 	font-size: 25px;
 	width: 45px;
@@ -145,7 +145,7 @@ body{
 	z-index: 99998;
 	padding: 20px;
 	width: 245px;
-	background:#1A76D1,;
+	background:pink,;
 	right: -245px;
 	text-align: left;
 	top: 30%;
@@ -167,7 +167,7 @@ body{
 	line-height: 45px;
 	font-size: 21px;
 	border-radius: 5px 0 0 5px;
-	background:#1A76D1;
+	background:pink;
 	text-align: center;
 	color: #fff !important;
 	top: 0;
