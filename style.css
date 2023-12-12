@@ -634,7 +634,7 @@ body{
 	color:#fff;
 }
 .slider .single-slider .btn.primary:before{
-	background:#1A76D1;
+	background:pink;
 }
 .slider .owl-carousel .owl-nav {
 	margin: 0;
