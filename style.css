@@ -2792,7 +2792,7 @@ body{
 }
 .appointment .form-group .list li:hover {
 	color:#fff;
-	background: #1A76D1;
+	background:pink;
 }
 .appointment .appointment-image{}
 .appointment.single-page .button .btn{
