@@ -2809,7 +2809,7 @@ body{
 	color:#868686;
 }
 .appointment.single-page .work-hour{
-	background:#1A76D1;
+	background:green;
 	padding: 40px;
 	box-shadow: 0px 0px 10px #00000024;
 	border-radius: 5px;
